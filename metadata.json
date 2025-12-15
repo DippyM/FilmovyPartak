@@ -1,0 +1,5 @@
+{
+  "name": "Filmový Parťák AI",
+  "description": "Interaktivní doporučovač filmů, který se učí váš vkus pomocí swipování. Žádné nudné dotazníky, jen zábavný výběr.",
+  "requestFramePermissions": []
+}
